@@ -37,7 +37,7 @@ If you're familiar with web development, you can contribute to this template by 
 
 ## License
 
-This template is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute it for personal or commercial purposes.
+This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute this code for personal or commercial purposes. Please refer to the LICENSE file for more details.
 
 Get started on your journey by creating a captivating portfolio website that showcases your skills, achievements, and aspirations. Let your website speak for you and open doors to new opportunities. Happy coding!
 
