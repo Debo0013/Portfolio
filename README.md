@@ -1,6 +1,6 @@
-# Portfolio Website Template
+# Portfolio Website 
 
-Welcome to the Portfolio Website Template repository! This template serves as a starting point for creating your own personalized portfolio website. Whether you're a developer, designer, writer, or any professional seeking to showcase your work, this template provides a solid foundation to get you started quickly.
+Welcome to my Portfolio Website repository! This repository serves as a starting point for even you in creating your own personalized portfolio website. Whether you're a developer, designer, writer, or any professional seeking to showcase your work, this template provides a solid foundation to get you started quickly.
 
 ## Getting Started
 
