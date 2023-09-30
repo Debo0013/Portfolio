@@ -75,4 +75,4 @@ Get started on your journey by creating a captivating portfolio website that sho
 
 For any questions or assistance, feel free to reach out.
 
-#Debbabrata #DynamicPortfolio #DataStories #OpenSourceMagic #ConnectAndCollaborate
+#Debabrata #DynamicPortfolio #DataStories #OpenSourceMagic #ConnectAndCollaborate
