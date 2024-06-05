@@ -12,7 +12,7 @@ VERSION:	Versoin Number
 @font-face {
   font-family: 'BwNistaInt-xBd';
   src: url("../plugins/fonts/BwNistaInt-xBd.woff") format("woff");
-  font-style: normal;
+  font-style: bold;
   font-display: swap;
 }
 
